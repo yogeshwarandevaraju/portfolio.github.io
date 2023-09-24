@@ -470,9 +470,9 @@ i{
             
         }
 
-    @media screen and (max-width:500px){
+    @media screen and (max-width:1080px){
         .contact a{
-            padding: 2.5rem;
+            padding: 3.5rem;
             margin-left: -26%;
 
         }
