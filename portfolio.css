@@ -460,11 +460,22 @@ i{
             margin-left: -40%;
             padding: 2rem;
         }
-        @media screen and (max-width:320px) {
+    }
+
+     @media screen and (max-width:320px) {
             .contact  a{
                 margin-left: -25%;
                 padding: 2rem;
             }
             
         }
+
+    @media screen and (max-width:500px){
+        .contact a{
+            padding: 2.5rem;
+            margin-left: -26%;
+
+        }
+
     }
+
